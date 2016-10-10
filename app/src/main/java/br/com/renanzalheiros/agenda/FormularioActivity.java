@@ -1,4 +1,4 @@
-package br.com.alura.agenda;
+package br.com.renanzalheiros.agenda;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,12 +6,11 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
-import br.com.alura.agenda.dao.AlunoDAO;
-import br.com.alura.agenda.modelo.Aluno;
+import br.com.alura.agenda.R;
+import br.com.renanzalheiros.agenda.dao.AlunoDAO;
+import br.com.renanzalheiros.agenda.modelo.Aluno;
 
 public class FormularioActivity extends AppCompatActivity {
 

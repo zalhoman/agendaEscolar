@@ -1,10 +1,10 @@
-package br.com.alura.agenda;
+package br.com.renanzalheiros.agenda;
 
-import android.view.View;
 import android.widget.EditText;
 import android.widget.RatingBar;
 
-import br.com.alura.agenda.modelo.Aluno;
+import br.com.alura.agenda.R;
+import br.com.renanzalheiros.agenda.modelo.Aluno;
 
 public class FormularioHelper {
     private final EditText campoNome;

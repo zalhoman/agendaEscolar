@@ -1,4 +1,4 @@
-package br.com.alura.agenda.modelo;
+package br.com.renanzalheiros.agenda.modelo;
 
 import java.io.Serializable;
 

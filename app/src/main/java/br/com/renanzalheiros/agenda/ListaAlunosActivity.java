@@ -1,4 +1,4 @@
-package br.com.alura.agenda;
+package br.com.renanzalheiros.agenda;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,8 +13,9 @@ import android.widget.ListView;
 
 import java.util.List;
 
-import br.com.alura.agenda.dao.AlunoDAO;
-import br.com.alura.agenda.modelo.Aluno;
+import br.com.alura.agenda.R;
+import br.com.renanzalheiros.agenda.dao.AlunoDAO;
+import br.com.renanzalheiros.agenda.modelo.Aluno;
 
 public class ListaAlunosActivity extends AppCompatActivity {
 
