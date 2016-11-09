@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_2ee9a42d2f41091abca6cc7cb845b123e674a770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_9af3cbcc5e51e42e179a635806742741df4f720b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="722e59c696979c349ee98ecb604dd6a386a86a4c">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_580748a45b1e459ddf07a0695c42ae8de0b6b819/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_f283ebe241df9361f2e2c68f9ec442b0c01d7ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_d95fefbf09541d4756e5598f8394e2206cbef03d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7894e4486b4c2d69df495e752e6ecc3d29fe730a">
+        <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7eb575778ac57ef320cfa4b1b48a59f5fda19c0/classes.dex" />
+    </item>
+
+</items>
