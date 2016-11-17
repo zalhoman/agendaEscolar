@@ -2,7 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.renanzalheiros.agenda">
 
-    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
@@ -10,7 +12,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="br.com.renanzalheiros.agenda.ListaAlunosActivity"
+        <activity
+            android:name=".ListaAlunosActivity"
             android:label="Agenda">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,9 +21,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="br.com.renanzalheiros.agenda.FormularioActivity"
-            android:label="Formulario">
-        </activity>
+        <activity
+            android:name=".FormularioActivity"
+            android:label="Formulario" />
+
+        <receiver android:name=".receivers.SMSReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".ProvasActivity" />
+        <activity android:name=".DetalhesProvaActivity"></activity>
     </application>
 
 </manifest>

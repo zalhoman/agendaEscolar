@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="722e59c696979c349ee98ecb604dd6a386a86a4c">
+        sha1="94ba0f25dd3a02c814e3bf3888d8eb63a2bbe335">
         <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_580748a45b1e459ddf07a0695c42ae8de0b6b819/classes.dex" />
     </item>
     <item
@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="7894e4486b4c2d69df495e752e6ecc3d29fe730a">
+        sha1="b01cbb00afd19f06bfe0716a1677067e297873cb">
         <dex dex="/Users/andrepereira/AndroidStudioProjects/agendaEscolar/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e7eb575778ac57ef320cfa4b1b48a59f5fda19c0/classes.dex" />
     </item>
 
